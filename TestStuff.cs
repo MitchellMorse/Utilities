@@ -10,5 +10,6 @@ namespace Models
     {
         public int Id { get; set; }
         public string TestData { get; set; }
+        public string NewString { get; set; }
     }
 }
